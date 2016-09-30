@@ -1,4 +1,4 @@
-setlocal foldmethod=expr
+"setlocal foldmethod=expr
 setlocal foldexpr=GetSoyFold(v:lnum)
 
 " Main foldexpr function called for every line.
